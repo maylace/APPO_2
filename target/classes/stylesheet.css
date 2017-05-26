@@ -1,0 +1,13 @@
+.table-view {
+    -fx-background-color: chocolate;
+    -fx-border-color: cornflowerblue;
+}
+
+.button {
+    -fx-background-color: bisque;
+    -fx-font-size: 20;
+}
+
+.button:hover {
+    -fx-background-color: cornflowerblue;
+}
